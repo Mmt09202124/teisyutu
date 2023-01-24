@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+html{
+    background:url(/OIP.jpg);
+    color:rgba(0, 0, 0, 0.95);
+}
+h1{
+    text-align: center;
+}
+body{
+    width: 400px;
+    margin:0 auto;
+}
+a{
+    color:rgb(207, 98, 98);
+}
+.contents{
+    font-size:20px;
+}
+a:visited{
+    color:rgb(29, 11, 11);
+}
+a:hover{
+    color:violet;
+}
+a:active{
+    background-color:rgb(214, 151, 151);
+}
+table,th,td{
+    border:1px solid;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    background-color:rgba(219, 189, 189, 0.7);
+}
+td{
+    background-color:rgba(218, 170, 170, 0.7);
+}
+
